@@ -8,7 +8,7 @@ from routes.schedule_movie import smR
 from routes.room import roomR
 from routes.detail_room import drR
 from routes.data_api import api
-# from config.db import db
+
 
 app = FastAPI()
 
